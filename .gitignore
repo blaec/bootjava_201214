@@ -3,6 +3,7 @@ HELP.md
 
 ### IntelliJ IDEA ###
 .idea
+.patch
 *.iws
 *.iml
 *.ipr
